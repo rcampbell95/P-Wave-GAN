@@ -4,18 +4,19 @@ CMPE 195A/B Senior Project to meet the Software Engineering Department Requireme
 
 Installation
 1. Clone repository
-2. Download Anaconda 3
+2. Download Anaconda 3 or Miniconda 3
 3. Download Dependencies
-    - Keras
+    - Pytorch
     - Scikit-learn
     - Obspy
+    - h5py
 
 Branches
 - master
     - Stable releases; Releases are tagged with a version at the end of each sprint
 - devmaster
     - Current development; Feature branches are merged into this branch using pull requests on a rolling basis as features are developed. 
-- feature  
+- feature
     - Each feature branch has a feature name as well as a corresponding feature id from the product backlog. 
 
 
