@@ -13,7 +13,7 @@ Installation
 
 Branches
 - master
-    - Stable releases; Releases are tagged with a version at the end of each sprint
+    - Stable releases
 - devmaster
     - Current development; Feature branches are merged into this branch using pull requests on a rolling basis as features are developed. 
 - feature
